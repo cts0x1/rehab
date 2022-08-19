@@ -14,7 +14,7 @@ Moves the Rehab button from the sidebar to the top where it ***should be.***
 - That's all.
 
 **Instructions:**
- *For TornPDA install.* (TornPDA isn't working right now, fix in a few hours.)
+ *For TornPDA install.* (If you use 'Desktop View' only, otherwise useless on PDA.)
 - Click [here](https://github.com/cts0x1/rehab/raw/main/I%20Still%20Hate%20The%20New%20Rehab%20Button.user.js) on your mobile device.
 - Select and copy everything.
 - Head to TornPDA, top left options, and hit 'Settings' at the bottom.
